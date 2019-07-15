@@ -22,7 +22,7 @@ Steps to run and build the application:
 * No additional steps to build and test the app. Just build and run it.
 * Not meant to be played in landscape.
 
-<img scr="https://user-images.githubusercontent.com/52855516/61206224-aff61980-a70f-11e9-8c24-d7297057fb6f.png" "width=200" height="550"><br>
+<img scr="https://user-images.githubusercontent.com/52855516/61206226-b08eb000-a70f-11e9-88d5-d7e1004bc438.png" "width=200" height="550"><br>
 <img src="https://user-images.githubusercontent.com/52855516/61186394-66132200-a682-11e9-8ba0-5589d0ca6980.png" width="280" height="550">
 <br>
 <img src="https://user-images.githubusercontent.com/52855516/61186295-2dbf1400-a681-11e9-827b-245348085438.png" width="280" height="550">
